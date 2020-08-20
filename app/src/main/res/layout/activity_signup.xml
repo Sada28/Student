@@ -59,17 +59,20 @@
         android:textColorHint="#0E0101"
         android:textSize="20dp"
         android:inputType="textPassword" />
+
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
         android:layout_marginTop="20dp"
         android:layout_marginEnd="20dp"
+        android:background="@drawable/dsg"
         android:ems="10"
         android:gravity="center"
         android:text="Register"
+        android:textColor="#FFFFFF"
         android:textColorHint="#0E0101"
-        android:textSize="20dp"/>
+        android:textSize="20dp" />
 
 
 
