@@ -32,7 +32,7 @@
         android:gravity="center"
         android:hint="Full Name"
         android:inputType="textPersonName"
-        android:textColorHint="#0E0101"
+        android:textColorHint="#FF555555"
         android:textSize="25dp" />
 
     <EditText
@@ -47,7 +47,7 @@
         android:gravity="center"
         android:hint="Email"
         android:inputType="textPersonName"
-        android:textColorHint="#0E0101"
+        android:textColorHint="#FF555555"
         android:textSize="25dp" />
 
     <EditText
@@ -62,7 +62,7 @@
         android:gravity="center"
         android:hint="Username"
         android:inputType="textPersonName"
-        android:textColorHint="#0E0101"
+        android:textColorHint="#FF555555"
         android:textSize="25dp" />
 
     <EditText
@@ -77,14 +77,14 @@
         android:gravity="center"
         android:hint="Password"
         android:inputType="textPassword"
-        android:textColorHint="#0E0101"
+        android:textColorHint="#FF555555"
         android:textSize="25dp" />
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="50dp"
         android:layout_marginEnd="20dp"
         android:background="@drawable/design"
         android:ems="10"
