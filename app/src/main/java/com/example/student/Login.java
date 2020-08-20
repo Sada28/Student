@@ -18,8 +18,8 @@ public class Login extends AppCompatActivity {
         tvAc.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i=new Intent(Login.this,Signup.class);
-                startActivity(i);
+                Intent I=new Intent(Login.this,Signup.class);
+                startActivity(I);
             }
         });
 
